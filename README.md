@@ -2,7 +2,7 @@
 Simple HTTPs Python Server :D
 
 <p align="center">
-  <img src="logo.png" alt="Minimal HTTPS Server Logo" width="300"/>
+  <img src="logo.png" alt="Minimal HTTPS Server Logo" width="900"/>
 </p>
 
 
@@ -31,7 +31,7 @@ A minimal HTTPS file/web server written in Python 3, designed for **red team ope
 ---
 
 <p align="center">
-  <img src="DONE.png" alt="Tool Running" width="300"/>
+  <img src="DONE.png" alt="Tool Running" width="900"/>
 </p>
 
 

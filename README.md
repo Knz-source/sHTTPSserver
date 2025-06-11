@@ -1,6 +1,11 @@
 # sHTTPSserver
 Simple HTTPs Python Server :D
 
+<p align="center">
+  <img src="logo.png" alt="Minimal HTTPS Server Logo" width="300"/>
+</p>
+
+
 # Minimal Red Team HTTPS Server
 
 A minimal HTTPS file/web server written in Python 3, designed for **red team operations**, labs, and pentesting.

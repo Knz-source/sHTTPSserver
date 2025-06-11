@@ -2,7 +2,7 @@
 Simple HTTPs Python Server :D
 
 <p align="center">
-  <img src="logo.png" alt="Minimal HTTPS Server Logo" width="900"/>
+  <img src="logo.png" alt="Minimal HTTPS Server Logo" width="600"/>
 </p>
 
 
